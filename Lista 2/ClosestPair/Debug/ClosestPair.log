@@ -1,0 +1,15 @@
+﻿  ClosestPair.cpp
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Exe 1-4\ClosestPair\ClosestP.h(19,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Exe 1-4\ClosestPair\ClosestPair.cpp(46,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Exe 1-4\ClosestPair\ClosestPair.cpp(54,20): warning C4244: '=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Exe 1-4\ClosestPair\ClosestPair.cpp(55,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Exe 1-4\ClosestPair\ClosestPair.cpp(59,22): warning C4244: '=': conversão de '_Ty' para 'int', possível perda de dados
+          with
+          [
+              _Ty=float
+          ]
+  ClosestPair.vcxproj -> C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Exe 1-4\ClosestPair\Debug\ClosestPair.exe

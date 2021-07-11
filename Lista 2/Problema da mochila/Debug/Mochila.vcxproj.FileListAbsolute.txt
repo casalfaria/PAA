@@ -1,0 +1,3 @@
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Mochila\Debug\Mochila.exe
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Mochila - Copy\Debug\Mochila.exe
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 2 PAA\Problema da mochila\Debug\Mochila.exe
