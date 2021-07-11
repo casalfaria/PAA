@@ -1,0 +1,11 @@
+﻿  List2.cpp
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Bubblesort.h(17,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Bubblesort.h(37,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Bubblesort.h(39,21): warning C4018: '<=': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Bubblesort.h(48,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Selectionsort.h(15,20): warning C4018: '<=': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Selectionsort.h(18,25): warning C4018: '<=': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Selectionsort.h(31,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Selectionsort.h(12,6): warning C4101: 'aux': variável local não referenciada
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Sequentialsearch.h(17,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  List2.vcxproj -> C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\List2\Debug\List2.exe
