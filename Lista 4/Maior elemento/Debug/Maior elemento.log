@@ -1,0 +1,5 @@
+﻿  Maior elemento.cpp
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 4\Maior elemento\Suporte.h(18,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 4\Maior elemento\Suporte.h(39,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 4\Maior elemento\Suporte.h(50,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Maior elemento.vcxproj -> C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 4\Maior elemento\Debug\Maior elemento.exe

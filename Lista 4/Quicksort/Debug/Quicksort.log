@@ -1,0 +1,4 @@
+﻿  Quicksort.cpp
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 4\Quicksort\Quicksort.h(18,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 4\Quicksort\Quicksort.h(39,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Quicksort.vcxproj -> C:\Users\CAFFP\OneDrive\Área de Trabalho\Mestrado\Analise de algoritmos\PAA\Lista 4\Quicksort\Debug\Quicksort.exe
